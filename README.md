@@ -1,4 +1,4 @@
-# Hi, I'm Bo 👋  
+# Hi, I'm Frida 👋  
 
 🎓 MS in Computer Science @ Northeastern University (Boston)  
 💻 Software Engineer | Backend & Full-Stack  
