@@ -23,7 +23,8 @@
 ---
 
 ## 📌 Featured Projects
-- **Geek Coding** – Online Judge Platform (Go + React)  
+- **Geek Coding** – Online Judge Platform (Go + React)
+- **Knowledge-Base**- Personal knowledge base via Open AI and Elasticsearch
 - **Go-Speech** – Fully offline ASR/TTS with ONNX Runtime  
 - **WebRTC Video Platform** – Real-time P2P communication
 - **Allergy-Aware-Recipes** – recipe sharing platform
