@@ -8,8 +8,10 @@
 
 ## 👩‍💻 About Me
 - Software Engineer with experience in backend and full-stack development  
-- Strong in Go, Python, and distributed backend systems  
-- Interested in backend engineering, data platforms, and AI-powered applications  
+- Strong in Go, Python, Java, and TypeScript  
+- Interested in backend engineering, data platforms, and AI-powered applications
+- Diverse Background with Computer Science & Math & Economics
+- Piano player for over 15 years
 
 ---
 
