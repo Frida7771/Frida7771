@@ -2,7 +2,7 @@
 
 🎓 MS in Computer Science @ Northeastern University (Boston)  
 💻 Software Engineer | Backend & Full-Stack  
-🌐 Python · Go · TypeScript · Node.js · React  
+🌐 Python · Go · TypeScript · Java · React  
 
 ---
 
