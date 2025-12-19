@@ -2,7 +2,7 @@
 
 🎓 MS in Computer Science @ Northeastern University (Boston)  
 💻 Software Engineer | Backend & Full-Stack  
-🌐 Python · Go · TypeScript · Java · React  
+🌐 Python · Go · Java · React  
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## 🛠 Tech Stack
 **Languages:** Python, Go, TypeScript, Java  
-**Backend:** Gin, FastAPI, Flask, Node.js, Express  
+**Backend:** Gin, FastAPI, Spring Boot, Node.js, Express  
 **Frontend:** React, TypeScript  
 **Database:** MySQL, PostgreSQL, MongoDB, Redis  
 **Cloud & DevOps:** Docker, AWS, GitHub Actions  
