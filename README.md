@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 - Software Engineer with experience in backend and full-stack development  
-- Strong in Go, Python, Java, and TypeScript  
+- Strong in Go, Python, Java, and JavaScript  
 - Interested in backend engineering, data platforms, and AI-powered applications
 - Diverse Background with Computer Science & Math & Economics
 - Piano player for over 15 years
@@ -16,16 +16,17 @@
 ---
 
 ## 🛠 Tech Stack
-**Languages:** Python, Go, TypeScript, Java  
+**Languages:** Python, Go, JavaScript, Java  
 **Backend:** Gin, FastAPI, Spring Boot, Node.js, Express  
-**Frontend:** React, TypeScript  
-**Database:** MySQL, PostgreSQL, MongoDB, Redis  
+**Frontend:** React, JavaScript  
+**Database:** MySQL, PostgreSQL, MongoDB  
 **Cloud & DevOps:** Docker, AWS, GitHub Actions  
 
 ---
 
 ## 📌 Featured Projects
 - **Geek Coding** – Online Judge Platform (Go + React)
+- **Cloud Dist** - Cloud storage service with Go, React, AWS S3
 - **Knowledge-Base**- Personal knowledge base via Open AI and Elasticsearch
 - **Go-Speech** – Fully offline ASR/TTS with ONNX Runtime  
 - **WebRTC Video Platform** – Real-time P2P communication
