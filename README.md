@@ -25,6 +25,7 @@
 ---
 
 ## 📌 Featured Projects
+- **LeetCode Review** - https://leetcode-review.com/
 - **Geek Coding** – Online Judge Platform (Go + React)
 - **Cloud Dist** - Cloud storage service with Go, React, AWS S3
 - **Knowledge-Base**- Personal knowledge base via Open AI and Elasticsearch
