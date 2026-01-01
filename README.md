@@ -28,7 +28,7 @@
 - **LeetCode Review** - https://leetcode-review.com/
 - **Geek Coding** – Online Judge Platform (Go + React)
 - **Cloud Dist** - Cloud storage service with Go, React, AWS S3
-- **Knowledge-Base**- Personal knowledge base via Open AI and Elasticsearch 
+- **AtlasKB**- knowledge base studio via Open AI and Elasticsearch 
 - **WebRTC Video Platform** – Real-time P2P communication
 - **Allergy-Aware-Recipes** – recipe sharing platform
 
