@@ -25,7 +25,6 @@
 ---
 
 ## 📌 Featured Projects
-- **LeetCode Review** - https://leetreviewer.com
 - **Geek Coding** – Online Judge Platform (Go + React)
 - **Cloud Dist** - Cloud storage service with Go, React, AWS S3
 - **AtlasKB**- knowledge base studio via Open AI and Elasticsearch
