@@ -22,17 +22,6 @@
 **Database:** MySQL, PostgreSQL, MongoDB  
 **Cloud & DevOps:** Docker, AWS, GitHub Actions  
 
----
-
-## 📌 Featured Projects
-- **Geek Coding** – Online Judge Platform (Go + React)
-- **Cloud Dist** - Cloud storage service with Go, React, AWS S3
-- **AtlasKB**- knowledge base studio via Open AI and Elasticsearch
-- **Financial Agent** – AI Financial Analysis Copilot(LLM agent with Yahoo Finance + SEC filings + RAG)
-- **AI Code Helper** – LLM-Powered Coding Assistant(code understanding, explanation, and refactoring via RAG & agents)
-- **WebRTC Video Platform** – Real-time P2P communication
-- **PyVoice** – Offline Real-Time Chinese ASR/TTS Tool
-
 
 ---
 
